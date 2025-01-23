@@ -27,5 +27,5 @@ SpringAI PDF RAG is a document query system that extracts content from PDF files
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/springai-pdf-rag.git
+   git clone https://github.com/sudha-malpeddi/springai-pdf-rag.git
    cd springai-pdf-rag
